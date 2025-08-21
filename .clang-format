@@ -6,6 +6,7 @@ TabWidth: 4
 UseTab: Never
 
 BreakBeforeBraces: Attach
+AlignOperands: false
 AllowShortEnumsOnASingleLine: false
 AllowShortIfStatementsOnASingleLine: false
 AllowShortLoopsOnASingleLine: true
