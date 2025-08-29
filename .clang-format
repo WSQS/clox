@@ -5,12 +5,13 @@ IndentWidth: 4
 TabWidth: 4
 UseTab: Never
 
-BreakBeforeBraces: Attach
+AlignAfterOpenBracket: DontAlign
 AlignOperands: false
 AllowShortEnumsOnASingleLine: false
 AllowShortIfStatementsOnASingleLine: false
 AllowShortLoopsOnASingleLine: true
 AllowShortFunctionsOnASingleLine: Empty
+BreakBeforeBraces: Attach
 
 ColumnLimit: 100
 IndentCaseLabels: false
