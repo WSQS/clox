@@ -29,4 +29,4 @@ clean:
 	rm -rf $(OBJ_DIR) $(TARGET)
 
 run: all
-	./$(TARGET)
+	./$(TARGET) main.lox
